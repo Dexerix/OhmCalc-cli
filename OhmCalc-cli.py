@@ -1,3 +1,14 @@
+#----------------------------------------------------------------------------
+#                              OhmCalc-cli
+# Written by                         : Dorian Luyet
+# Creation date                      : 20.06.2025
+# License                            : MIT
+# Repository                         : https://github.com/Dexerix/OhmCalc-cli
+#
+# Short program description          :
+#   Performs different electrical calculations based on Ohm's law   
+#----------------------------------------------------------------------------
+
 import os
 import sys
 import math
